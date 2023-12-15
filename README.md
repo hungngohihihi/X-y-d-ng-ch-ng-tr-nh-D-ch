@@ -1,10 +1,10 @@
 # XayDungChuongTrinhDich
-*** About ***
+### About ###
 
 IT-E6 HUST
 2023.1
 
-*** Complie and run ***
+### Complie and run ###
 
 Change direct to `imcompleted` folder
 
