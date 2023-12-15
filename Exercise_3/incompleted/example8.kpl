@@ -1,0 +1,6 @@
+Program Example8; (* Example 8 *)
+var 
+    f:float; (* KW_FLOAT *)
+begin
+    f:=3.1416; (* TK_FLOAT ('3.1416') *)
+end.
